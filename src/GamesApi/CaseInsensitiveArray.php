@@ -1,6 +1,5 @@
 <?php
-
-namespace Curl;
+namespace Caconnect;
 
 class CaseInsensitiveArray implements \ArrayAccess, \Countable, \Iterator
 {

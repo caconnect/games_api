@@ -1,7 +1,5 @@
 <?php
 namespace Caconnect;
-use GamesApiExceptions;
-use Curl;
 
 class GamesApi {
 
