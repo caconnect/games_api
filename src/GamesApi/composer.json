@@ -1,0 +1,14 @@
+{
+    "name": "caconnect/games-api",
+    "description": "Games API used to buy games and manage orders from api.licente-jocuri.ro platform.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alberto",
+            "email": "alberto.burlacu93@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
